@@ -1,0 +1,36 @@
+.title, .subtitle 
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.title
+{
+    height: 40px;
+}
+
+html, header
+{
+    background-color: #ffeee0;
+}
+
+/*esquema de cores que eu to usando*/
+.black
+{
+    color: #161f1f;
+}
+.brown
+{
+    color: #1e0b08;
+}
+.burgundy
+{
+    color: #5e100a;
+}
+.red
+{
+    color: #b3320b;
+}
+.orange
+{
+    color: #d75c1e;
+}
